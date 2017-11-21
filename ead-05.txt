@@ -1,0 +1,51 @@
+Atividade EAD 05
+Nome: Juan Carlos Palhares Barreto
+Disciplina: Comércio Eletrônico
+Período: 4º
+Turno: Noturno
+
+
+1) B2C: Quando é realizado a transação entre empresas e consumidores;
+B2B: quando a neogociação é realizada entre empresas e fornecedores;
+C2C: quando o comércio acontece entre consumidores;
+B2G: é realizada o comércio entre empresas e órgãos governamentais.
+
+2) Organização de catálogos de produtos online;
+Processamento de pedidos pelo próprio site;
+Formas de pagamentos com segurança;
+Envio da mercadoria no prazo combinado;
+Gerência dos dados dos clientes;
+Divulgação do site a clientes potenciais.
+
+3) Permite escolhere os produtos com comodidade e conforto, podendo incluir e retirar produtos, e alterar quantidades deitens apenas com cliques do mouse.
+
+4) Com essa relação direta entre vendedor e consumidor, é possível personalizar os produtos e oferecer conforme o gosto do cliente. Permite também o envio de propagandas por e-mail de produtos de interesse do consumidor. 
+
+5) Com base no produto escolhido, o vendedor já sabendo o prazo para confirmação de pagamento somado ao prazo necessário para despacho da mercadoria ele calcula esse período ao da transportadora contratada, a qual previamente já informou o prazo para entrega no CEP do consumidor e informa para ele esse prazo.
+
+6) No modelo de leilão, o usuário pode assumir dois papéis, são eles:
+Como vendedor, o usuário pode anunciar o item que deseja vender, fornecer informações a respeito do produto, estipular um preçomínimo e definir o prazo de encerramento do leilão.
+Como comprador, o usuário pode pesquisar algum produto de interesse no site, ver o lance atual e dar seu próprio lance, tentativa de adquirir o produto.
+
+7) Não, é aplicado também ao modelo B2C - onde empresas já estão cadastradas no site de leilão, B2B - onde empresas já cadastradas no site compram de outras empresas e até B2G - onde os órgãos do governo adiquirem os produtos nesse modelo - muito comum nesse aspecto é o leilão reverso.
+
+8) As empresas entram em contato com os fornecedores informando sobre o interesse em determinado produtos e esses fazem a oferta mínima para venda. A partir daí são dados lances em que o preço final vai diminuindo, o que oferecer a melhor oferta arremata o leilão e vende o produto.
+
+9) Por fechar parcerias com diversas lojas virtuais, o portal oferece uma maior variedade de produtos aos consumidores.
+
+10) O diferencial é que os consumidores estebelecem o preço que estão dispostos a pagar por determinado produto, o site entra em contato com os fornecedores desse produto informando os aspectos oferecidos pelo consumidor, após isso cabe ao fornecedor responder de acordo ou não com a oferta oferecida.
+
+11) Além do menor preço, deve ser considerado o ranking de aceitação das lojas, buscando assim o melhor custo/benefício do produto ou serviço.
+
+12) Quanto mais itens com características semelhantes o consumidor adquirir, mais barato será o preço individual de cada produto;
+
+13) Principalmente quando as empresas querem se desfazer de estoque excedente.
+
+14) Nessa modalidade, procura-se vender uma quantidade mais elevada de produtos para os consumidores. É lançada a oferta com uma porcentagem de deconto do preço real e é feita a divigulção dessa oferta através de redes sociais, e-mail, etc. Para compensar o desconto oferecido, as empresas buscam vender um alto número de produtos/serviços e assim também captar mais clientes.
+
+15) Ganham dinamismo com relação a concorrência, fideliza e capta mais consumidores.
+
+16) Adquirem receita através de publicidade em sites, exibindo banners e induzindo o consumidor a compra daquele produto.
+
+17) Vantagens: Conveniência, redução de custos para os consumidores, custos administrativos reduzidos, maior e mais abrangente estoque de produtos.
+Desvantagens: Relacionamento com os clientes sem contato pessoal, dificuldade no reconhecimento da marca e satisfação do cliente, dificuldade na decisão da compra com base apenas em fotos do produtos, equipamentos devem funcionar 24x7 e nem todos os produtos e serviços são compatíveis.
